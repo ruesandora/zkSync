@@ -8,6 +8,8 @@
 
 > Tabii 1 cüzdan için konuşuyorum ben - taktir sizindir.
 
+> Gün içersinde ufak tefek düzenlemeler olacaktır bu repo için.
+
 #
 
 Hetzner Cloud tarafında CX52'yi alabilirsiniz. Cloud sunucular saatlik maliyet hesaplar. Saati 0.053€. 
