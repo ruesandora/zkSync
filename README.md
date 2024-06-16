@@ -12,7 +12,7 @@
 
 #
 
-Hetzner Cloud tarafında CX52'yi alabilirsiniz. Cloud sunucular saatlik maliyet hesaplar. Saati 0.053€. 
+Hetzner Cloud tarafında CPX51'yi alabilirsiniz. Cloud sunucular saatlik maliyet hesaplar. Saati 0.053€. 
 
 Yani 5 gün çalıştırsanız 5.5€ civarı. İmkanınız varsa daha büyük paketi alın. Resmi döküman 300GB yeterli diyor ancak onun yazıldığı zaman yetiyodur, şimdi daha fazlası gerekebilir.
 
