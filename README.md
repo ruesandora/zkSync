@@ -14,9 +14,8 @@
 
 Hetzner Cloud tarafında CX52'yi alabilirsiniz. Cloud sunucular saatlik maliyet hesaplar. Saati 0.053€. 
 
-Yani 5 gün çalıştırsanız 5.5€ civarı. 
+Yani 5 gün çalıştırsanız 5.5€ civarı. İmkanınız varsa daha büyük paketi alın. Resmi döküman 300GB yeterli diyor ancak onun yazıldığı zaman yetiyodur, şimdi daha fazlası gerekebilir.
 
-Şaşırtıcı değil mi ?
 
 
 
@@ -67,7 +66,7 @@ nano mainnet-external-node-docker-compose.yml
 
 <details>
 
-![image](https://github.com/ruesandora/zkSync/assets/101149671/b7e80c6b-81fd-4961-a882-d851bcc6702f)
+<img width="688" alt="image" src="https://github.com/neuweltgeld/zkSync/assets/101174090/e4934aa4-66c0-4f8c-998d-7a48e0a23598">
 
 </details>
 
@@ -77,7 +76,8 @@ docker compose --file mainnet-external-node-docker-compose.yml up -d
 ```
 
 
-Grafana ve API, WS için belirlenen ipleri localhosttan yani 127.0.0.1 den publice yani 0.0.0.0 çeviriyoruz ki dışardan erişelim.
+Grafana için localhosttan yani 127.0.0.1 den publice yani 0.0.0.0 çeviriyoruz ki dışardan erişelim.
+Diğer portları da resimdeki gibi ayarlayın.
 
 ```console
 # Bu adımda bekleyeceğiz. 
